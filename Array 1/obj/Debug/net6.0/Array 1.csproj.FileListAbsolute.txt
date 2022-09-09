@@ -1,0 +1,15 @@
+D:\Projects CS\Array 1\Array 1\bin\Debug\net6.0\Array 1.exe
+D:\Projects CS\Array 1\Array 1\bin\Debug\net6.0\Array 1.deps.json
+D:\Projects CS\Array 1\Array 1\bin\Debug\net6.0\Array 1.runtimeconfig.json
+D:\Projects CS\Array 1\Array 1\bin\Debug\net6.0\Array 1.dll
+D:\Projects CS\Array 1\Array 1\bin\Debug\net6.0\Array 1.pdb
+D:\Projects CS\Array 1\Array 1\obj\Debug\net6.0\Array 1.csproj.AssemblyReference.cache
+D:\Projects CS\Array 1\Array 1\obj\Debug\net6.0\Array 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects CS\Array 1\Array 1\obj\Debug\net6.0\Array 1.AssemblyInfoInputs.cache
+D:\Projects CS\Array 1\Array 1\obj\Debug\net6.0\Array 1.AssemblyInfo.cs
+D:\Projects CS\Array 1\Array 1\obj\Debug\net6.0\Array 1.csproj.CoreCompileInputs.cache
+D:\Projects CS\Array 1\Array 1\obj\Debug\net6.0\Array 1.dll
+D:\Projects CS\Array 1\Array 1\obj\Debug\net6.0\refint\Array 1.dll
+D:\Projects CS\Array 1\Array 1\obj\Debug\net6.0\Array 1.pdb
+D:\Projects CS\Array 1\Array 1\obj\Debug\net6.0\Array 1.genruntimeconfig.cache
+D:\Projects CS\Array 1\Array 1\obj\Debug\net6.0\ref\Array 1.dll
