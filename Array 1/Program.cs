@@ -34,14 +34,10 @@
         }
 
         for (int j = 0; j < array.GetLength(1); j++)
-        {
             sum += array[rowForSum, j];
-        }
 
         for (int i = 0; i < array.GetLength(0); i++)
-        {
             mult *= array[i, columnForMult];
-        }
 
         Console.WriteLine($"\nСумма {userRow} строки равна {sum}. Произведение {userColumn} столбца равно {mult}.");
     }
